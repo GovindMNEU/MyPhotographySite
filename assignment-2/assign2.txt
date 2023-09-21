@@ -1,0 +1,64 @@
+# Professional Portfolio
+
+This is the source code for my professional portfolio website, showcasing my education, projects, contact information, and more.
+
+## Table of Contents
+
+-Favicon
+-Table
+-Form
+-Images
+-Hyperlink
+-Button
+-audio
+-video
+-header
+-footer
+-summary
+-menu
+-tel for contact information
+-mailto for contact information
+
+## About Me
+
+I am a Software Developer, Data Analyst, and Photographer. Currently, I am pursuing a Master's degree in Computer Software Engineering Systems at Northeastern University in Boston.
+
+## My Education
+
+- Master's in Computer Software Engineering Systems from Northeastern University Boston (2023 - 2025).
+- Bachelor in Computer Engineering from Savitribai Phule Pune University (2019 - 2023) with a CGPA of 9.11.
+- Higher Secondary Certificate from Pace Science College, Andheri, Mumbai (2019) with a percentage of 75%.
+- Secondary School Certificate from Jai Hind High School, Dhule (2017) with a percentage of 98%.
+
+## My Portfolio
+
+I have worked on various projects, including:
+- MRI Image Enhancement for Brain Tumor Detection
+- VS Code Extension Development
+- Hospital Management System
+- Stock Price Prediction Using Machine Learning
+
+## Certifications
+
+I have earned several certifications, including:
+- Blockchain Certificate
+- GDSC Club Participation
+- MIT Python Certification
+- IBM AI Certification
+
+## Contact Me
+
+You can contact me via email at [govindrmdhl8@gmail.com](mailto:govindrmdhl8@gmail.com) or by phone at [+857 456 7890](tel:+8574567890). Feel free to send me a message using the contact form on my website.
+
+## Inspirational Video
+
+I have included an inspirational video for you to watch.
+
+## Audio That Inspires Me
+
+You can listen to audio that inspires me on my website.
+
+## Footer
+
+&copy; 2023 Govind Mudavadkar. All rights reserved.
+
